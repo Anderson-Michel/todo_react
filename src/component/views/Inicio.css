@@ -1,0 +1,38 @@
+
+#body {
+  width: 100%;
+  height: auto;
+  background: #80cbc;
+}
+
+/*frase do topo*/
+#topo {
+  padding: 50px;
+}
+
+/**/
+#topo-table{
+  width: 50%;
+  height: auto;
+
+}
+
+#table {
+  width: 100%;
+}
+
+/**/
+#btn-align {
+  width: 50%;
+
+}
+#btn {
+  float: right;
+  width: 100px;
+  height: 50px;
+  padding-top: 20px;
+}
+
+input, textarea {
+  border: 1px solid black;
+}
